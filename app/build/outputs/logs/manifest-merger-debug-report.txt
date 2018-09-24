@@ -1,0 +1,103 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/davidflatla/AndroidStudioProjects/hello_world/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/davidflatla/AndroidStudioProjects/hello_world/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/davidflatla/AndroidStudioProjects/hello_world/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/davidflatla/AndroidStudioProjects/hello_world/app/src/main/AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/davidflatla/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d2a4ba6bb1a98c107424ff52b9a722cc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/davidflatla/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/9103d740caaa8b93f4b88bb1663975c8/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/davidflatla/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/bd083fc4e8da828dcb5b84614909ee7a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/davidflatla/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/b809c46a0dc2a7c4048f8a0a1b7561b7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/davidflatla/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/1d6db9e5b568713f0c24cb0a58d9a360/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/davidflatla/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/793104544823f1230ab33649c16f9d00/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/davidflatla/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/64d9fc7a34fa3cbd249e29fe5f5ed5c7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/davidflatla/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/75b907091ffb05103e5c3cd7357c3bb7/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/davidflatla/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/355ac235d55f1da921f4579313a8d05a/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/davidflatla/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/3924da2bf4df4f383d98f9cbf2cf169d/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/davidflatla/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/17b896aa82fa1a5729893d5ba8ce7f76/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/davidflatla/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/bd95b2bf0fa6f632914bed277529bca5/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/davidflatla/AndroidStudioProjects/hello_world/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/davidflatla/AndroidStudioProjects/hello_world/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/davidflatla/AndroidStudioProjects/hello_world/app/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /Users/davidflatla/AndroidStudioProjects/hello_world/app/src/main/AndroidManifest.xml:3:5-41
+		INJECTED from /Users/davidflatla/AndroidStudioProjects/hello_world/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/davidflatla/AndroidStudioProjects/hello_world/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/davidflatla/AndroidStudioProjects/hello_world/app/src/main/AndroidManifest.xml
+		ADDED from /Users/davidflatla/AndroidStudioProjects/hello_world/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /Users/davidflatla/AndroidStudioProjects/hello_world/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/davidflatla/AndroidStudioProjects/hello_world/app/src/main/AndroidManifest.xml
+		ADDED from /Users/davidflatla/AndroidStudioProjects/hello_world/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /Users/davidflatla/AndroidStudioProjects/hello_world/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/davidflatla/AndroidStudioProjects/hello_world/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/davidflatla/AndroidStudioProjects/hello_world/app/src/main/AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/davidflatla/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/9103d740caaa8b93f4b88bb1663975c8/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/davidflatla/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/9103d740caaa8b93f4b88bb1663975c8/AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from /Users/davidflatla/AndroidStudioProjects/hello_world/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /Users/davidflatla/AndroidStudioProjects/hello_world/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /Users/davidflatla/AndroidStudioProjects/hello_world/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /Users/davidflatla/AndroidStudioProjects/hello_world/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /Users/davidflatla/AndroidStudioProjects/hello_world/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /Users/davidflatla/AndroidStudioProjects/hello_world/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.example.df.hello_world.MainActivity
+ADDED from /Users/davidflatla/AndroidStudioProjects/hello_world/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /Users/davidflatla/AndroidStudioProjects/hello_world/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/davidflatla/AndroidStudioProjects/hello_world/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /Users/davidflatla/AndroidStudioProjects/hello_world/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /Users/davidflatla/AndroidStudioProjects/hello_world/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/davidflatla/AndroidStudioProjects/hello_world/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /Users/davidflatla/AndroidStudioProjects/hello_world/app/src/main/AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from /Users/davidflatla/AndroidStudioProjects/hello_world/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/davidflatla/AndroidStudioProjects/hello_world/app/src/main/AndroidManifest.xml
+INJECTED from /Users/davidflatla/AndroidStudioProjects/hello_world/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/davidflatla/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d2a4ba6bb1a98c107424ff52b9a722cc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/davidflatla/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d2a4ba6bb1a98c107424ff52b9a722cc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/davidflatla/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/9103d740caaa8b93f4b88bb1663975c8/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/davidflatla/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/9103d740caaa8b93f4b88bb1663975c8/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/davidflatla/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/bd083fc4e8da828dcb5b84614909ee7a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/davidflatla/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/bd083fc4e8da828dcb5b84614909ee7a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/davidflatla/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/b809c46a0dc2a7c4048f8a0a1b7561b7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/davidflatla/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/b809c46a0dc2a7c4048f8a0a1b7561b7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/davidflatla/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/1d6db9e5b568713f0c24cb0a58d9a360/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/davidflatla/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/1d6db9e5b568713f0c24cb0a58d9a360/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/davidflatla/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/793104544823f1230ab33649c16f9d00/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/davidflatla/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/793104544823f1230ab33649c16f9d00/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/davidflatla/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/64d9fc7a34fa3cbd249e29fe5f5ed5c7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/davidflatla/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/64d9fc7a34fa3cbd249e29fe5f5ed5c7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/davidflatla/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/75b907091ffb05103e5c3cd7357c3bb7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/davidflatla/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/75b907091ffb05103e5c3cd7357c3bb7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/davidflatla/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/355ac235d55f1da921f4579313a8d05a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/davidflatla/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/355ac235d55f1da921f4579313a8d05a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/davidflatla/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/3924da2bf4df4f383d98f9cbf2cf169d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/davidflatla/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/3924da2bf4df4f383d98f9cbf2cf169d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/davidflatla/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/17b896aa82fa1a5729893d5ba8ce7f76/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/davidflatla/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/17b896aa82fa1a5729893d5ba8ce7f76/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/davidflatla/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/bd95b2bf0fa6f632914bed277529bca5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/davidflatla/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/bd95b2bf0fa6f632914bed277529bca5/AndroidManifest.xml:20:5-44
+INJECTED from /Users/davidflatla/AndroidStudioProjects/hello_world/app/src/main/AndroidManifest.xml
+INJECTED from /Users/davidflatla/AndroidStudioProjects/hello_world/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/davidflatla/AndroidStudioProjects/hello_world/app/src/main/AndroidManifest.xml
+		ADDED from /Users/davidflatla/AndroidStudioProjects/hello_world/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/davidflatla/AndroidStudioProjects/hello_world/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/davidflatla/AndroidStudioProjects/hello_world/app/src/main/AndroidManifest.xml
+		ADDED from /Users/davidflatla/AndroidStudioProjects/hello_world/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/davidflatla/AndroidStudioProjects/hello_world/app/src/main/AndroidManifest.xml
